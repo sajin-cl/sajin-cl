@@ -2,6 +2,12 @@
 <h3 align="center">Python Fullstack Developer | HTML | CSS | JS | Django | Bootstrap</h3>
 
 <p align="center">
+  <a href="https://linkedin.com/in/sajincl">LinkedIn</a> •
+  <a href="https://sajin-portfolio.vercel.app">Portfolio</a> •
+  <a href="https://github.com/sajin-cl">GitHub</a>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58E6D9&center=true&vCenter=true&width=550&lines=Passionate+Fullstack+Developer;Building+Modern+Web+Apps+with+Django;Designing+Cool+UI+Experiences" alt="Typing animation" />
 </p>
 
@@ -26,6 +32,9 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/Adobe_Express-FF61F6?style=for-the-badge&logo=adobe&logoColor=white" />
 </p>
 
 ---
@@ -45,8 +54,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=1000&color=00FACC&center=true&vCenter=true&width=500&lines=Explore+My+Creative+Mini+Projects!" alt="Mini Projects Typing Animation" />
 </p>
 
-
-
 | 🚀 Project                | 💻 Tech Stack       | 📝 Description                              |
 |--------------------------|---------------------|----------------------------------------------|
 | ✅ **Todo List**          | HTML • CSS • JS     | A sleek, interactive task manager            |
@@ -56,6 +63,8 @@
 | ✅ **BMI Calculator**     | HTML • CSS • JS     | Calculates BMI with simple UI                |
 | ✅ **Calculator**         | HTML • CSS • JS     | A responsive, functional calculator app      |
 | ✅ **Google Pay Clone**   | HTML • CSS          | UI representation of GPay interface          |
+| ✅ **Whatsapp Clone**     | Figma               | UI / UX                                      |
+| ✅ **Delivery website**   | Figma               | UI / UX                                      |
 
 <p align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="250" alt="Mini projects animation" />
@@ -65,19 +74,9 @@
 
 ### 🏆 Achievements
 
-- 📈 **7K+ Subscribers** on YouTube – video editting  & montage  
-  
+- 📈 **7K+ Subscribers** on YouTube – video editing & montage  
 
 ---
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sajin-cl&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajin-cl&theme=radical&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajin-cl&layout=compact&theme=radical&hide_border=true" />
-</p>
 
 ---
 
@@ -85,15 +84,14 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/sajincl" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://sajin-portfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Visit-Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
   </a>
   <a href="https://github.com/sajin-cl" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
 </p>
 
----
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" alt="Outro coding animation" />
-</p>
