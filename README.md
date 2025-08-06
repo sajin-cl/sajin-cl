@@ -86,7 +86,7 @@
   <a href="https://linkedin.com/in/sajincl" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://sajin-portfolio.vercel.app" target="_blank">
+  <a href="https://sajincldev.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Visit-Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
   </a>
   <a href="https://github.com/sajin-cl" target="_blank">
