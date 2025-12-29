@@ -15,7 +15,7 @@
 
 ### 🔥 About Me
 
-- 🎓 Bachelor of Engineering in CSE, Anna University, Chennai  
+- 🎓 Bachelor of Engineering in CSE, Annai Vailankanni College of Engineering, Kanyakumari  
 - 💼 Aspiring **MERN Stack Developer**  
 - 🧑‍💻 Strong interest in building real-world full-stack projects  
 - 🧠 Consistent problem solver (LeetCode)  
