@@ -70,15 +70,15 @@ Annai Vailankanni College of Engineering, Kanyakumari (2017 – 2021)
 
 ---
 
-## 📈 GitHub Stats & LeetCode
+<center>
+  ## 📈 GitHub Stats & LeetCode
 
 ![LeetCode Streak](https://leetcard.jacoblin.cool/sajin-cl?theme=dark&font=Roboto)
 
 ![Sajin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajin-cl&show_icons=true&theme=radical)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajin-cl&layout=compact&theme=radical)  
-
-
+</center>
 
 ---
 
