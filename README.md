@@ -1,94 +1,94 @@
-<h1 align="center">Hey 👋, I'm Sajin CL</h1>
-<h3 align="center">MERN Stack Developer | MongoDB | Express | React | Node.js</h3>
+# Hi there 👋, I'm Sajin CL
 
-<p align="center">
-  <a href="https://linkedin.com/in/sajincl">LinkedIn</a> •
-  <a href="https://sajin-portfolio.vercel.app">Portfolio</a> •
-  <a href="https://github.com/sajin-cl">GitHub</a>
-</p>
+![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FF00&width=500&lines=MERN+Stack+Developer;Full-Stack+Enthusiast;Building+Web+Apps)
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=9de410&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Building+Scalable+Web+Applications;React+%7C+Node+%7C+MongoDB" alt="Typing animation" />
-</p>
+📍 Tamil Nadu, India  
+📧 sajincl222@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/sajincl) | 🔗 [Portfolio](https://sajin-portfolio.vercel.app) | 🔗 [GitHub](https://github.com/sajin-cl)
 
 ---
 
-### 🔥 About Me
+## 💻 Tech Stack
 
-- 🎓 Bachelor of Engineering in CSE, Annai Vailankanni College of Engineering, Kanyakumari  
-- 💼 Aspiring **MERN Stack Developer**  
-- 🧑‍💻 Strong interest in building real-world full-stack projects  
-- 🧠 Consistent problem solver (LeetCode)  
-- 📫 Reach me: [sajincl222@gmail.com](mailto:sajincl222@gmail.com)  
-- 🎥 YouTube creator with **7K+ subscribers**
-
----
-
-### 💻 Tech Stack (MERN)
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
+![Express](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=fff)
 
 ---
 
-### 🚀 Featured Project
+## 🚀 Projects
 
-#### 🌍 Ecommerce Web Application (MERN)
-> 🛍️ Product-based ecommerce platform  
-> ⚙️ React | Node.js | Express | MongoDB  
-> 🔐 Authentication & REST APIs  
-> 📦 CRUD operations & responsive UI  
+### 📦 Ecommerce Web Application (MERN)
+![Ecommerce App GIF](https://media.giphy.com/media/YOUR_ECOMMERCE_GIF/giphy.gif)  
+Full-stack ecommerce platform with authentication and CRUD operations.  
+**Tech:** React, Node.js, Express.js, MongoDB
 
----
+### 📝 Todo App (React)
+![Todo App GIF](https://media.giphy.com/media/YOUR_TODO_GIF/giphy.gif)  
+Component-based task manager with state logic.  
+**Tech:** React, JavaScript
 
-### 🧩✨ Mini Projects Showcase
+### 🌐 Portfolio Website
+![Portfolio GIF](https://media.giphy.com/media/YOUR_PORTFOLIO_GIF/giphy.gif)  
+Showcases skills, projects, and contact info.  
+**Tech:** React, CSS
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=1000&color=00FACC&center=true&vCenter=true&width=550&lines=Hands-on+Projects+with+React+and+JavaScript!" />
-</p>
+### ➗ Calculator
+![Calculator GIF](https://media.giphy.com/media/YOUR_CALCULATOR_GIF/giphy.gif)  
+Functional calculator supporting basic operations.  
+**Tech:** HTML, CSS, JavaScript
 
-| 🚀 Project               | 💻 Tech Stack           | 📝 Description                         |
-|-------------------------|-------------------------|-------------------------------------------|
-| ✅ **Todo App**          | React • JS              | Task management with state handling      |
-| ✅ **Portfolio Website** | React • CSS             | Personal responsive portfolio            |
-| ✅ **Ecommerce UI**      | React • CSS             | Product listing & UI components          |
-| ✅ **Calculator**        | HTML • CSS • JS         | Functional calculator                    |
-| ✅ **BMI Calculator**    | HTML • CSS • JS         | Simple health calculator                 |
-| ✅ **UI Clones**         | HTML • CSS              | Facebook, Zomato, GPay UI replicas       |
-| ✅ **Ecommerce**         | Mongodb • ExpressJS     | session,password hashing,crud operation  |
+### ⚖️ BMI Calculator
+![BMI Calculator GIF](https://media.giphy.com/media/YOUR_BMI_GIF/giphy.gif)  
+Interactive BMI calculation utility.  
+**Tech:** HTML, CSS, JavaScript
 
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="250" />
-</p>
-
----
-
-### 🏆 Achievements
-
-- 📈 **7K+ Subscribers** on YouTube  
-- 🔥 Strong consistency in learning & building projects  
+### 🖥️ UI Clones (Frontend Practice)
+![UI Clones GIF](https://media.giphy.com/media/YOUR_UICLONES_GIF/giphy.gif)  
+UI replicas for layout and styling practice (Facebook, Zomato, GPay, etc.)  
+**Tech:** HTML, CSS
 
 ---
 
-### 🌐 Connect With Me
+## 🏆 Experience
 
-<p align="center">
-  <a href="https://linkedin.com/in/sajincl" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://sajin-portfolio.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Visit-Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://github.com/sajin-cl" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+**MERN Stack Development Intern — Logiprompt Techno Solutions**  
+_Aug 2025 – Jan 2026_  
+Worked on MERN stack components, REST APIs, and frontend-backend integration.
+
+**Data Entry — Kanam Latex Pvt Ltd**  
+_Feb 2022 – Aug 2022_  
+Documentation, reporting, and communication handling.
+
+---
+
+## 🎓 Education
+
+**B.E — Computer Science Engineering**  
+Annai Vailankanni College of Engineering, Kanyakumari (2017 – 2021)
+
+---
+
+## 📈 GitHub Stats & LeetCode
+
+![Sajin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajin-cl&show_icons=true&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajin-cl&layout=compact&theme=radical)  
+
+![LeetCode Streak](https://leetcard.jacoblin.cool/sajincl?theme=dark&font=Roboto)
+
+---
+
+## 🔭 Currently
+Actively building real-world MERN projects and improving full-stack development skills.
+
+---
+
+## ⚡ Fun Fact
+💡 Learning never stops. Every line of code is a step closer to mastery.
