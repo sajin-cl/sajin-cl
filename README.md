@@ -29,15 +29,10 @@
 Full-stack ecommerce platform with authentication and CRUD operations.  
 **Tech:** React, Node.js, Express.js, MongoDB
 
-### 📝 Todo App (React)
+### 📝 Todo App (HTML || CSS || JavaScript)
 ![Todo App GIF](https://media.giphy.com/media/YOUR_TODO_GIF/giphy.gif)  
 Component-based task manager with state logic.  
-**Tech:** React, JavaScript
-
-### 🌐 Portfolio Website
-![Portfolio GIF](https://media.giphy.com/media/YOUR_PORTFOLIO_GIF/giphy.gif)  
-Showcases skills, projects, and contact info.  
-**Tech:** React, CSS
+**Tech:**  JavaScript
 
 ### ➗ Calculator
 ![Calculator GIF](https://media.giphy.com/media/YOUR_CALCULATOR_GIF/giphy.gif)  
@@ -81,7 +76,7 @@ Annai Vailankanni College of Engineering, Kanyakumari (2017 – 2021)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajin-cl&layout=compact&theme=radical)  
 
-![LeetCode Streak](https://leetcard.jacoblin.cool/sajincl?theme=dark&font=Roboto)
+![LeetCode Streak](https://leetcard.jacoblin.cool/sajin-cl?theme=dark&font=Roboto)
 
 ---
 
