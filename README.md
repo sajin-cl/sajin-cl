@@ -3,7 +3,7 @@
 ![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FF00&width=500&lines=MERN+Stack+Developer;React+Developer;Building+Web+Apps)
 
 📍 Tamil Nadu, India  
-📧 sajincl222@gmail.com  
+📧 Email: [sajincl222@gmail.com](mailto:sajincl222@gmail.com)
 🔗 [LinkedIn](https://linkedin.com/in/sajincl) | 🔗 [Portfolio](https://sajincl-porfolio.vercel.app/) | 🔗 [GitHub](https://github.com/sajin-cl)
 
 ---
