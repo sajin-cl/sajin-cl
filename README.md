@@ -1,26 +1,54 @@
-# Hi there 👋, I'm Sajin CL
+<div align="center">
+
+# SAJIN CL
+### <samp>MERN STACK DEVELOPER • Full Stack DEVELOPER • REACT DEVELOPER</samp>
 
 ![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FF00&width=500&lines=MERN+Stack+Developer;React+Developer;Building+Web+Apps)
 
-📍 Tamil Nadu, India  
-📧 Email: [sajincl222@gmail.com](mailto:sajincl222@gmail.com)
-🔗 [LinkedIn](https://linkedin.com/in/sajincl) | 🔗 [Portfolio](https://sajincl-porfolio.vercel.app/) | 🔗 [GitHub](https://github.com/sajin-cl)
+<br>
 
----
+<a href="https://www.linkedin.com/in/sajincl/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:sajincl222@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://sajincl-porfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-90EE90?style=for-the-badge&logo=google-chrome&logoColor=black" />
+</a>
+<a href="https://leetcode.com/sajincl/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
 
-## 💻 Tech Stack
+<br>
+<br>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=000)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=000)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=fff)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=fff)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=fff)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=fff)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=fff)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=fff)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge\&logo=bootstrap\&logoColor=fff)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwindcss\&logoColor=fff)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=fff)
+### 🔮 About Me
+Hello, I'm Sajin CL , a MERN Stack Developer. I enjoy building responsive, functional, and scalable web applications, from mobile-friendly websites to full-featured desktop sites. I am passionate about creating clean, efficient code and delivering seamless user experiences.
+
+</div>
+
+<br>
+
+## ⚔️ Skills Arsenal
+
+<div align="center">
+
+  ### ⚡ Languages
+  <img src="https://skillicons.dev/icons?i=js&perline=8&theme=dark" />
+
+  ### 🎨 Frontend
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap&perline=8&theme=dark" />
+
+  ### ⚙️ Backend
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,&perline=8&theme=dark" />
+
+  ### 🛠️ Tools
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vite,postman,vercel&perline=8&theme=dark" />
+
+</div>
+
+<br>
 
 ---
 
@@ -52,3 +80,11 @@ Frontend social media UI clone using reusable components and dynamic state handl
   <img src="https://leetcard.jacoblin.cool/sajin-cl?theme=dark&font=Roboto" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api?username=sajin-cl&show_icons=true&theme=radical" height="150"/>
 </p>
+
+---
+
+<br>
+<div align="center">
+  <br>
+  <samp><i>"Focused on becoming a strong full-stack developer"</i></samp>
+</div>
