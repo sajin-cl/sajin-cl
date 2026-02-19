@@ -1,9 +1,11 @@
 <div align="center">
 
 # SAJIN CL
-### <samp>MERN STACK DEVELOPER • Full Stack DEVELOPER • REACT DEVELOPER</samp>
+### <samp>MERN Stack Developer • Full-Stack Developer • React Developer</samp>
 
-![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FF00&width=500&lines=MERN+Stack+Developer;React+Developer;Building+Web+Apps)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FF00&width=500&center=true&vCenter=true&lines=MERN+Stack+Developer;React+Developer;Building+Web+Apps" />
+</p>
 
 <br>
 
@@ -20,7 +22,7 @@
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
-<br>
+</div>
 <br>
 
 ### 🔮 About Me
