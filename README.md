@@ -32,7 +32,7 @@ Hello, I'm Sajin CL , a MERN Stack Developer. I enjoy building responsive, funct
 
 <br>
 
-## ⚔️ Skills Arsenal
+## ⚔️ Skills
 
 <div align="center">
 
