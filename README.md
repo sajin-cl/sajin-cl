@@ -36,17 +36,20 @@ Hello, I'm Sajin CL , a MERN Stack Developer. I enjoy building responsive, funct
 
 <div align="center">
 
-  ### ⚡ Languages
+  ### ⚡ Language
   <img src="https://skillicons.dev/icons?i=js&perline=8&theme=dark" />
 
   ### 🎨 Frontend
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react&theme=dark&spacing=40" />
 
   ### ⚙️ Backend
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+
+  ### ⚙️ Database
+  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" />
 
   ### 🛠️ Tools
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vite,postman,vercel&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vite,postman,vercel&theme=dark" />
 
 </div>
 
