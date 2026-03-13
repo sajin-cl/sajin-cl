@@ -77,7 +77,7 @@ Server‑rendered ecommerce system with role separation and session authenticati
 ### 📸 Instagram Clone
 
 Frontend social media UI clone using reusable components and dynamic state handling.
-**Tech:** React.js
+**Tech:** Vite,TypeSript,React.js,TailwindCSS
 
 ## 📈 Coding Stats
 
