@@ -59,22 +59,22 @@ Hello, I'm Sajin CL , a MERN Stack Developer. I enjoy building responsive, funct
 
 ## 🚀 Projects
 
-### 🌐 Portfolio Website (React.js + Tailwind CSS)
+### 🌐 Portfolio Website 
 
 Personal developer portfolio built using modern frontend tooling and responsive UI.
 **Tech:** React.js, Vite, TailwindCSS
 
-### 🛒 Multi Vendor Grocery Ecommerce (MERN Stack)
+### 🛒 Multi Vendor Grocery Ecommerce 
 
 Multi‑vendor grocery platform with authentication, email OTP verification and vendor management.
 **Tech:** CSS, Bootstrap, Node.js, Express.js, MongoDB, Mongoose ODM, JWT Authentication
 
-### 🧾 Ecommerce Admin & User Panel (MERN Stack)
+### 🧾 Ecommerce Admin & User Panel 
 
 Server‑rendered ecommerce system with role separation and session authentication.
 **Tech:** CSS, Bootstrap, Node.js, Express.js, Handlebars.js, Session Authentication
 
-### 📸 Instagram Clone (React.js + TypeScript)
+### 📸 Instagram Clone 
 
 Frontend social media UI clone using reusable components and dynamic state handling.
 **Tech:** Vite,TypeSript,React.js,TailwindCSS
