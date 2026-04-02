@@ -83,7 +83,7 @@ Frontend social media UI clone using reusable components and dynamic state handl
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/sajin-cl?theme=dark&font=Roboto" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=sajin-cl&show_icons=true&theme=radical" height="150"/>
+ 
 </p>
 
 ---
