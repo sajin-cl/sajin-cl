@@ -79,6 +79,11 @@ Server‑rendered ecommerce system with role separation and session authenticati
 Frontend social media UI clone using reusable components and dynamic state handling.
 **Tech:** Vite,TypeSript,React.js,TailwindCSS
 
+### 💮 AK Decoration Service 
+
+A modern and responsive decoration service website showcasing event planning and decoration services, featuring service listings, image galleries, and contact options for client inquiries.
+**Tech:** Vite,React.js,TailwindCSS
+
 ## 📈 Coding Stats
 
 <p align="center">
