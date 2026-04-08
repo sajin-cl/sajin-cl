@@ -1,10 +1,10 @@
 <div align="center">
 
 # SAJIN CL
-### <samp>MERN Stack Developer • Full-Stack Developer • React Developer</samp>
+### <samp>MERN STACK DEVELOPER • FULL-STACK DEVELOPER • REACT DEVELOPER</samp>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FF00&width=500&center=true&vCenter=true&lines=MERN+Stack+Developer;React+Developer;Building+Web+Apps" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=00FF00&width=500&center=true&vCenter=true&lines=MERN+STACK+DEVELOPER;REACT+JS+DEVELOPER;BUILDING+WEB+APPS" />
 </p>
 
 <br>
@@ -25,31 +25,43 @@
 </div>
 <br>
 
-### 🔮 About Me
+### 🔮 ABOUT ME
 Hello, I'm Sajin CL , a MERN Stack Developer. I enjoy building responsive, functional, and scalable web applications, from mobile-friendly websites to full-featured desktop sites. I am passionate about creating clean, efficient code and delivering seamless user experiences.
 
 </div>
 
 <br>
 
-## ⚔️ Skills
+## ⚔️ SKILLS
 
-<div align="center">
+<div align="right">
 
-  ### ⚡ Language
-  <img src="https://skillicons.dev/icons?i=js,ts&perline=8&theme=dark" />
+  ### ⚡ LANGUAGES
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-  ### 🎨 Frontend
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react&theme=dark&spacing=40" />
+### 🎨 FRONTEND
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-  ### ⚙️ Backend
-  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+### ⚙️ BACKEND
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 
-  ### ⚙️ Database
-  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" />
+### ⚙️ DATABASE
+![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-  ### 🛠️ Tools
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vite,postman,vercel&theme=dark" />
+### 🛠️ TOOLS
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/vscode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
@@ -57,34 +69,34 @@ Hello, I'm Sajin CL , a MERN Stack Developer. I enjoy building responsive, funct
 
 ---
 
-## 🚀 Projects
+## 🚀 PROJECTS
 
-### 🌐 Portfolio Website 
+### 🌐 PORTFOLIO  WEBSITE 
 
 Personal developer portfolio built using modern frontend tooling and responsive UI.
 **Tech:** React.js, Vite, TailwindCSS
 
-### 🛒 Multi Vendor Grocery Ecommerce 
+### 🛒 MULTI VENDOR GROCERY ECOMMERCE 
 
 Multi‑vendor grocery platform with authentication, email OTP verification and vendor management.
 **Tech:** CSS, Bootstrap, Node.js, Express.js, MongoDB, Mongoose ODM, JWT Authentication
 
-### 🧾 Ecommerce Admin & User Panel 
+### 🧾 ECOMMERCE ADMIN & USER PANEL 
 
 Server‑rendered ecommerce system with role separation and session authentication.
 **Tech:** CSS, Bootstrap, Node.js, Express.js, Handlebars.js, Session Authentication
 
-### 📸 Instagram Clone 
+### 📸 INSTAGRAM CLONE 
 
 Frontend social media UI clone using reusable components and dynamic state handling.
 **Tech:** Vite,TypeSript,React.js,TailwindCSS
 
-### 💮 AK Decoration Service 
+### 💮 AK DECORATION SERVICE 
 
 A modern and responsive decoration service website showcasing event planning and decoration services, featuring service listings, image galleries, and contact options for client inquiries.
 **Tech:** Vite,React.js,TailwindCSS
 
-## 📈 Coding Stats
+## 📈 CODING STATS
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/sajin-cl?theme=dark&font=Roboto" height="150"/>
