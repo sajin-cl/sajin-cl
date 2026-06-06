@@ -104,16 +104,8 @@ Frontend social media UI clone using reusable components and dynamic state handl
 
 A modern and responsive decoration service website showcasing event planning and decoration services, featuring service listings, image galleries, and contact options for client inquiries.
 **Tech:** Vite,React.js,TailwindCSS
+
 <br>
-
-## 📈 CODING STATS
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/sajin-cl?theme=dark&font=Roboto" height="150"/>
- 
-</p>
-
----
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sajin-cl/sajin-cl/main/assets/sajin-cl-banner-green.png" width="100%" />
