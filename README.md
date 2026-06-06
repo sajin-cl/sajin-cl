@@ -4,7 +4,7 @@
 ### <samp>MERN STACK DEVELOPER • FULL-STACK DEVELOPER • REACT DEVELOPER</samp>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=EB9913&width=500&center=true&vCenter=true&lines=MERN+STACK+DEVELOPER;REACT+JS+DEVELOPER;BUILDING+WEB+APPS" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=90EE90&width=500&center=true&vCenter=true&lines=MERN+STACK+DEVELOPER;REACT+JS+DEVELOPER;BUILDING+WEB+APPS" />
 </p>
 
 <br>
@@ -75,27 +75,32 @@ Hello, I'm Sajin CL , a MERN Stack Developer. I enjoy building responsive, funct
 
 ## 🚀 PROJECTS SECTION <br>
 
-![PORTFOLIO WEBSITE](https://img.shields.io/badge/PORTFOLIO%20WEBSITE-EB9913?style=for-the-badge&logo=appveyor&logoColor=white)
+![PORTFOLIO WEBSITE](https://img.shields.io/badge/PORTFOLIO%20WEBSITE-90EE90?style=for-the-badge&logo=appveyor&logoColor=black)
 
 Personal developer portfolio built using modern frontend tooling and responsive UI.
 **Tech:** React.js, Vite, TailwindCSS
 
-![MULTI VENDOR GROCERY ECOMMERCE](https://img.shields.io/badge/MULTI%20VENDOR%20GROCERY%20ECOMMERCE-EB9913?style=for-the-badge&logo=appveyor&logoColor=white)  
+![HONEY ECOMMERCE WEBSITE](https://img.shields.io/badge/HONEY%20ECOMMERCE%20WEBSITE-90EE90?style=for-the-badge&logo=appveyor&logoColor=black)
+
+Premium honey e-commerce platform with secure payment integration, product catalog management, and responsive user experience.
+**Tech:** Next.js, MongoDB Atlas,Cloudinary, TailwindCSS
+
+![MULTI VENDOR GROCERY ECOMMERCE](https://img.shields.io/badge/MULTI%20VENDOR%20GROCERY%20ECOMMERCE-90EE90?style=for-the-badge&logo=appveyor&logoColor=black)  
 
 Multi‑vendor grocery platform with authentication, email OTP verification and vendor management.
 **Tech:** CSS, Bootstrap, Node.js, Express.js, MongoDB, Mongoose ODM, JWT Authentication
 
-![ECOMMERCE ADMIN & USER PANEL](https://img.shields.io/badge/ECOMMERCE%20ADMIN%20USER%20PANEL-EB9913?style=for-the-badge&logo=appveyor&logoColor=white)  
+![ECOMMERCE ADMIN & USER PANEL](https://img.shields.io/badge/ECOMMERCE%20ADMIN%20USER%20PANEL-90EE90?style=for-the-badge&logo=appveyor&logoColor=black)  
 
 Server‑rendered ecommerce system with role separation and session authentication.
 **Tech:** CSS, Bootstrap, Node.js, Express.js, Handlebars.js, Session Authentication
 
-![INSTAGRAM CLONE](https://img.shields.io/badge/INSTAGRAM%20CLONE-EB9913?style=for-the-badge&logo=appveyor&logoColor=white)
+![INSTAGRAM CLONE](https://img.shields.io/badge/INSTAGRAM%20CLONE-90EE90?style=for-the-badge&logo=appveyor&logoColor=black)
 
 Frontend social media UI clone using reusable components and dynamic state handling.
 **Tech:** Vite,TypeSript,React.js,TailwindCSS
 
-![AK DECORATION SERVICE](https://img.shields.io/badge/AK%20DECORATION%20SERVICE-EB9913?style=for-the-badge&logo=appveyor&logoColor=white) 
+![AK DECORATION SERVICE](https://img.shields.io/badge/AK%20DECORATION%20SERVICE-90EE90?style=for-the-badge&logo=appveyor&logoColor=black) 
 
 A modern and responsive decoration service website showcasing event planning and decoration services, featuring service listings, image galleries, and contact options for client inquiries.
 **Tech:** Vite,React.js,TailwindCSS
@@ -109,6 +114,10 @@ A modern and responsive decoration service website showcasing event planning and
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sajin-cl/sajin-cl/main/assets/sajin-cl-banner-green.png" width="100%" />
+</p>
 
 <br>
 <div align="center">
