@@ -73,34 +73,34 @@ Hello, I'm Sajin CL , a MERN Stack Developer. I enjoy building responsive, funct
 
 ---
 
-## 🚀 PROJECTS SECTION <br>
+## 🔥 FEATURED PROJECTS <br>
 
-![PORTFOLIO WEBSITE](https://img.shields.io/badge/PORTFOLIO%20WEBSITE-90EE90?style=for-the-badge&logo=appveyor&logoColor=black)
+⭐ PORTFOLIO WEBSITE :
 
 Personal developer portfolio built using modern frontend tooling and responsive UI.
 **Tech:** React.js, Vite, TailwindCSS
 
-![HONEY ECOMMERCE WEBSITE](https://img.shields.io/badge/HONEY%20ECOMMERCE%20WEBSITE-90EE90?style=for-the-badge&logo=appveyor&logoColor=black)
+⭐ HONEY ECOMMERCE WEBSITE :
 
 Premium honey e-commerce platform with secure payment integration, product catalog management, and responsive user experience.
 **Tech:** Next.js, MongoDB Atlas,Cloudinary, TailwindCSS
 
-![MULTI VENDOR GROCERY ECOMMERCE](https://img.shields.io/badge/MULTI%20VENDOR%20GROCERY%20ECOMMERCE-90EE90?style=for-the-badge&logo=appveyor&logoColor=black)  
+⭐ MULTI VENDOR GROCERY ECOMMERCE :
 
 Multi‑vendor grocery platform with authentication, email OTP verification and vendor management.
 **Tech:** CSS, Bootstrap, Node.js, Express.js, MongoDB, Mongoose ODM, JWT Authentication
 
-![ECOMMERCE ADMIN & USER PANEL](https://img.shields.io/badge/ECOMMERCE%20ADMIN%20USER%20PANEL-90EE90?style=for-the-badge&logo=appveyor&logoColor=black)  
+⭐ ECOMMERCE ADMIN & USER PANEL :
 
 Server‑rendered ecommerce system with role separation and session authentication.
 **Tech:** CSS, Bootstrap, Node.js, Express.js, Handlebars.js, Session Authentication
 
-![INSTAGRAM CLONE](https://img.shields.io/badge/INSTAGRAM%20CLONE-90EE90?style=for-the-badge&logo=appveyor&logoColor=black)
+⭐ INSTAGRAM CLONE :
 
 Frontend social media UI clone using reusable components and dynamic state handling.
 **Tech:** Vite,TypeSript,React.js,TailwindCSS
 
-![AK DECORATION SERVICE](https://img.shields.io/badge/AK%20DECORATION%20SERVICE-90EE90?style=for-the-badge&logo=appveyor&logoColor=black) 
+⭐ AK DECORATION SERVICE :
 
 A modern and responsive decoration service website showcasing event planning and decoration services, featuring service listings, image galleries, and contact options for client inquiries.
 **Tech:** Vite,React.js,TailwindCSS
@@ -108,11 +108,16 @@ A modern and responsive decoration service website showcasing event planning and
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sajin-cl/sajin-cl/main/assets/sajin-cl-banner-green.png" width="100%" />
+
+<img src="https://komarev.com/ghpvc/?username=sajin-cl&label=Profile%20Views&color=0e75b6&style=flat" />
+
 </p>
 
-<br>
 <div align="center">
   <br>
   <samp><i>"Focused on becoming a strong full-stack developer"</i></samp>
 </div>
+
+<br>
+
+<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
