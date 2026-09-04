@@ -77,32 +77,32 @@ Hello, I'm Sajin CL , a MERN Stack Developer. I enjoy building responsive, funct
 
 ⭐ PORTFOLIO WEBSITE :
 
-Personal developer portfolio built using modern frontend tooling and responsive UI.
+    Personal developer portfolio built using modern frontend tooling and responsive UI.
 **Tech:** React.js, Vite, TailwindCSS
 
 ⭐ HONEY ECOMMERCE WEBSITE :
 
-Premium honey e-commerce platform with secure payment integration, product catalog management, and responsive user experience.
-**Tech:** Next.js, MongoDB Atlas,Cloudinary, TailwindCSS
+    Premium honey e-commerce platform with secure payment integration, product catalog management, and responsive user experience.
+   **Tech:** Next.js, MongoDB Atlas,Cloudinary, TailwindCSS
 
 ⭐ MULTI VENDOR GROCERY ECOMMERCE :
 
-Multi‑vendor grocery platform with authentication, email OTP verification and vendor management.
+    Multi‑vendor grocery platform with authentication, email OTP verification and vendor management.
 **Tech:** CSS, Bootstrap, Node.js, Express.js, MongoDB, Mongoose ODM, JWT Authentication
 
 ⭐ ECOMMERCE ADMIN & USER PANEL :
-
-Server‑rendered ecommerce system with role separation and session authentication.
+ 
+    Server‑rendered ecommerce system with role separation and session authentication.
 **Tech:** CSS, Bootstrap, Node.js, Express.js, Handlebars.js, Session Authentication
 
 ⭐ INSTAGRAM CLONE :
 
-Frontend social media UI clone using reusable components and dynamic state handling.
+    Frontend social media UI clone using reusable components and dynamic state handling.
 **Tech:** Vite,TypeSript,React.js,TailwindCSS
 
 ⭐ AK DECORATION SERVICE :
 
-A modern and responsive decoration service website showcasing event planning and decoration services, featuring service listings, image galleries, and contact options for client inquiries.
+    A modern and responsive decoration service website showcasing event planning and decoration services, featuring service listings, image galleries, and contact options for client inquiries.
 **Tech:** Vite,React.js,TailwindCSS
 
 <br>
