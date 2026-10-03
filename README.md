@@ -72,7 +72,7 @@ Hello, I'm Sajin CL , a `MERN Stack Developer`. I enjoy building responsive, fun
 
 ---
 
-## 🔥 FEATURED PROJECTS <br>
+> #  FEATURED PROJECTS 🔥 
 
 ⭐ PORTFOLIO WEBSITE :
 
@@ -80,11 +80,15 @@ Hello, I'm Sajin CL , a `MERN Stack Developer`. I enjoy building responsive, fun
  
 **Tech:** `React.js, Vite, TailwindCSS`
 
+---
+
 ⭐ HONEY ECOMMERCE WEBSITE :
 
 `Premium honey e-commerce platform with secure payment integration, product catalog management, and responsive user experience.`
 
 **Tech:** `Next.js, MongoDB Atlas,Cloudinary, TailwindCSS`
+
+---
 
 ⭐ MULTI VENDOR GROCERY ECOMMERCE :
 
@@ -92,17 +96,23 @@ Hello, I'm Sajin CL , a `MERN Stack Developer`. I enjoy building responsive, fun
 
 **Tech:** `CSS, Bootstrap, Node.js, Express.js, MongoDB, Mongoose ODM, JWT Authentication`
 
+---
+
 ⭐ ECOMMERCE ADMIN & USER PANEL :
  
 `Server‑rendered ecommerce system with role separation and session authentication.`
 
 **Tech:** `CSS, Bootstrap, Node.js, Express.js, Handlebars.js, Session Authentication`
 
+---
+
 ⭐ INSTAGRAM CLONE :
 
 `Frontend social media UI clone using reusable components and dynamic state handling.`
 
 **Tech:** `Vite,TypeSript,React.js,TailwindCSS`
+
+---
 
 ⭐ AK DECORATION SERVICE :
 
