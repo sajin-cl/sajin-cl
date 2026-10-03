@@ -61,6 +61,7 @@ Hello, I'm Sajin CL , a `MERN Stack Developer`. I enjoy building responsive, fun
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![VS Code](https://img.shields.io/badge/vscode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
