@@ -20,14 +20,14 @@
 <a href="https://www.instagram.com/sajin.cl/">
   <img src="https://img.shields.io/badge/Instagram-@sajin.cl-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-
+<br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=38BDF8&width=500&center=true&vCenter=true&lines=MERN+STACK+DEVELOPER;REACT+JS+DEVELOPER" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=22C55E&width=500&center=true&vCenter=true&lines=MERN+STACK+DEVELOPER;REACT+JS+DEVELOPER" />
 </p>
 
 </div>
-<br>
+
 
 ## 🎭 WHO AM I
 
@@ -49,7 +49,7 @@ Hello, I'm Sajin CL , a `MERN Stack Developer`. I enjoy building responsive, fun
 </p>
 
 <picture>
-  <img alt="sajin-cl's GitHub profile" src="dark_mode_profile.svg" />
+  <img alt="sajin-cl's GitHub profile" src="dark_mode_scan_green.svg" />
 </picture>
 
 <!--skills sections started here -->
@@ -173,3 +173,7 @@ I SPECIALIZE IN THE FOLLOWING TECHNOLOGIES
 <br>
 
 <h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+
+<picture>
+  <img alt="Game Show" src="jet_game.svg" />
+</picture>
