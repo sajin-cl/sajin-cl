@@ -1,3 +1,7 @@
+<picture>
+  <img alt="sajin-cl's GitHub profile" src="dark_mode_scan_green.svg" />
+</picture>
+
 <div align="center">
 
 # SAJIN CL
@@ -12,7 +16,7 @@
 </div>
 
 
-## 🎭 WHO AM I
+## 🎭 USER_INFO
 
 Hi, I’m Sajin CL, a `MERN Stack Developer`. passionate about building responsive, scalable, and user-friendly web applications with clean and efficient code.
 
@@ -31,9 +35,6 @@ Hi, I’m Sajin CL, a `MERN Stack Developer`. passionate about building responsi
   <img src="https://img.shields.io/badge/REAL--WORLD%20PROJECTS-C0C0C0?style=flat-square&labelColor=808080" />
 </p>
 
-<picture>
-  <img alt="sajin-cl's GitHub profile" src="dark_mode_scan_green.svg" />
-</picture>
 
 <!--skills sections started here -->
 
