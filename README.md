@@ -3,24 +3,7 @@
 # SAJIN CL
 ### <samp>MERN STACK DEVELOPER • FULL-STACK DEVELOPER • REACT DEVELOPER</samp>
 
-<!-- Badges List -->
-<a href="https://www.linkedin.com/in/sajincl/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:sajincl.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://sajincl-porfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-<a href="https://leetcode.com/sajincl/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-<a href="https://gitlab.com/sajin-cl"> <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" /> </a>
-<a href="https://www.instagram.com/sajin.cl/">
-  <img src="https://img.shields.io/badge/Instagram-@sajin.cl-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<br>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=22C55E&width=500&center=true&vCenter=true&lines=MERN+STACK+DEVELOPER;REACT+JS+DEVELOPER" />
@@ -31,7 +14,7 @@
 
 ## 🎭 WHO AM I
 
-Hello, I'm Sajin CL , a `MERN Stack Developer`. I enjoy building responsive, functional, and scalable web applications, from mobile-friendly websites to full-featured desktop sites. I am passionate about creating clean, efficient code and delivering seamless user experiences.
+Hi, I’m Sajin CL, a `MERN Stack Developer`. passionate about building responsive, scalable, and user-friendly web applications with clean and efficient code.
 
 </div>
 
@@ -177,3 +160,29 @@ I SPECIALIZE IN THE FOLLOWING TECHNOLOGIES
 <picture>
   <img alt="Game Show" src="jet_game.svg" />
 </picture>
+
+---
+
+<!-- Badges List -->
+<div align="center">
+<a href="https://www.linkedin.com/in/sajincl/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:sajincl.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://sajincl-porfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+<a href="https://leetcode.com/sajincl/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+<a href="https://gitlab.com/sajin-cl"> <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" /> </a>
+<a href="https://www.instagram.com/sajin.cl/">
+  <img src="https://img.shields.io/badge/Instagram-@sajin.cl-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+</div>
+<div align="center">
+  <br>
+  <samp><i>"Let's Connect"</i></samp>
+</div>
