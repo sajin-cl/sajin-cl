@@ -49,6 +49,12 @@ Hello, I'm Sajin CL , a `MERN Stack Developer`. I enjoy building responsive, fun
   <img src="https://img.shields.io/badge/REAL--WORLD%20PROJECTS-C0C0C0?style=flat-square&labelColor=808080" />
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="sajin-cl's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 <!--skills sections started here -->
 
 ## ⚔️ SKILLS
