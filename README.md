@@ -3,12 +3,6 @@
 # SAJIN CL
 ### <samp>MERN STACK DEVELOPER • FULL-STACK DEVELOPER • REACT DEVELOPER</samp>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=38BDF8&width=500&center=true&vCenter=true&lines=MERN+STACK+DEVELOPER;REACT+JS+DEVELOPER;BUILDING+WEB+APPS" />
-</p>
-
-<br>
-
 <!-- Badges List -->
 <a href="https://www.linkedin.com/in/sajincl/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -27,10 +21,15 @@
   <img src="https://img.shields.io/badge/Instagram-@sajin.cl-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=38BDF8&width=500&center=true&vCenter=true&lines=MERN+STACK+DEVELOPER;REACT+JS+DEVELOPER" />
+</p>
+
 </div>
 <br>
 
-## 🔮 ABOUT ME
+## 🎭 WHO AM I
 
 Hello, I'm Sajin CL , a `MERN Stack Developer`. I enjoy building responsive, functional, and scalable web applications, from mobile-friendly websites to full-featured desktop sites. I am passionate about creating clean, efficient code and delivering seamless user experiences.
 
@@ -50,9 +49,7 @@ Hello, I'm Sajin CL , a `MERN Stack Developer`. I enjoy building responsive, fun
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="sajin-cl's GitHub profile" src="dark_mode.svg" />
+  <img alt="sajin-cl's GitHub profile" src="dark_mode_profile.svg" />
 </picture>
 
 <!--skills sections started here -->
