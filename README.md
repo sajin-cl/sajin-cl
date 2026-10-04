@@ -4,11 +4,12 @@
 ### <samp>MERN STACK DEVELOPER • FULL-STACK DEVELOPER • REACT DEVELOPER</samp>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=90EE90&width=500&center=true&vCenter=true&lines=MERN+STACK+DEVELOPER;REACT+JS+DEVELOPER;BUILDING+WEB+APPS" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=38BDF8&width=500&center=true&vCenter=true&lines=MERN+STACK+DEVELOPER;REACT+JS+DEVELOPER;BUILDING+WEB+APPS" />
 </p>
 
 <br>
 
+<!-- Badges List -->
 <a href="https://www.linkedin.com/in/sajincl/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -16,24 +17,42 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://sajincl-porfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-90EE90?style=for-the-badge&logo=google-chrome&logoColor=black" />
+  <img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 <a href="https://leetcode.com/sajincl/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 <a href="https://gitlab.com/sajin-cl"> <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" /> </a>
+<a href="https://www.instagram.com/sajin.cl/">
+  <img src="https://img.shields.io/badge/Instagram-@sajin.cl-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
 </div>
 <br>
 
-### 🔮 ABOUT ME
+## 🔮 ABOUT ME
+
 Hello, I'm Sajin CL , a `MERN Stack Developer`. I enjoy building responsive, functional, and scalable web applications, from mobile-friendly websites to full-featured desktop sites. I am passionate about creating clean, efficient code and delivering seamless user experiences.
 
 </div>
 
-<br>
+<p align="left">
+  <img src="https://img.shields.io/badge/PROBLEM%20SOLVER-C0C0C0?style=flat-square&labelColor=808080" />
+  <img src="https://img.shields.io/badge/CONTINUOUS%20LEARNER-C0C0C0?style=flat-square&labelColor=808080" />
+  <img src="https://img.shields.io/badge/CLEAN%20CODE-C0C0C0?style=flat-square&labelColor=808080" />
+  <img src="https://img.shields.io/badge/LOGICAL%20THINKER-C0C0C0?style=flat-square&labelColor=808080" />
+  <img src="https://img.shields.io/badge/API%20BUILDER-C0C0C0?style=flat-square&labelColor=808080" />
+  <img src="https://img.shields.io/badge/DEBUGGING-C0C0C0?style=flat-square&labelColor=808080" />
+  <img src="https://img.shields.io/badge/RESPONSIVE%20DESIGN-C0C0C0?style=flat-square&labelColor=808080" />
+  <img src="https://img.shields.io/badge/TEAM%20PLAYER-C0C0C0?style=flat-square&labelColor=808080" />
+  <img src="https://img.shields.io/badge/ATTENTION%20TO%20DETAIL-C0C0C0?style=flat-square&labelColor=808080" />
+  <img src="https://img.shields.io/badge/REAL--WORLD%20PROJECTS-C0C0C0?style=flat-square&labelColor=808080" />
+</p>
+
+<!--skills sections started here -->
 
 ## ⚔️ SKILLS
+I SPECIALIZE IN THE FOLLOWING TECHNOLOGIES
 
 <div align="right">
 
@@ -69,16 +88,23 @@ Hello, I'm Sajin CL , a `MERN Stack Developer`. I enjoy building responsive, fun
 </div>
 
 <br>
+<!--skills sections ends here -->
 
 ---
 
-> #  FEATURED PROJECTS 🔥 
+<!--projects sections started here -->
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=1&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=false&width=500&lines=%F0%9F%8C%90+FEATURED+PROJECTS+%F0%9F%8C%90"
+    alt="Featured Projects"
+  />
+</p>
 
 ⭐ PORTFOLIO WEBSITE :
 
 `Personal developer portfolio built using modern frontend tooling and responsive UI.`
  
-**Tech:** `React.js, Vite, TailwindCSS`
+***Tech:*** `React.js, Vite, TailwindCSS`
 
 ---
 
@@ -86,7 +112,7 @@ Hello, I'm Sajin CL , a `MERN Stack Developer`. I enjoy building responsive, fun
 
 `Premium honey e-commerce platform with secure payment integration, product catalog management, and responsive user experience.`
 
-**Tech:** `Next.js, MongoDB Atlas,Cloudinary, TailwindCSS`
+***Tech:*** `Next.js, MongoDB Atlas,Cloudinary, TailwindCSS`
 
 ---
 
@@ -94,7 +120,7 @@ Hello, I'm Sajin CL , a `MERN Stack Developer`. I enjoy building responsive, fun
 
 `Multi‑vendor grocery platform with authentication, email OTP verification and vendor management.`
 
-**Tech:** `CSS, Bootstrap, Node.js, Express.js, MongoDB, Mongoose ODM, JWT Authentication`
+***Tech:*** `CSS, Bootstrap, Node.js, Express.js, MongoDB, Mongoose ODM, JWT Authentication`
 
 ---
 
@@ -102,7 +128,7 @@ Hello, I'm Sajin CL , a `MERN Stack Developer`. I enjoy building responsive, fun
  
 `Server‑rendered ecommerce system with role separation and session authentication.`
 
-**Tech:** `CSS, Bootstrap, Node.js, Express.js, Handlebars.js, Session Authentication`
+***Tech:*** `CSS, Bootstrap, Node.js, Express.js, Handlebars.js, Session Authentication`
 
 ---
 
@@ -110,7 +136,7 @@ Hello, I'm Sajin CL , a `MERN Stack Developer`. I enjoy building responsive, fun
 
 `Frontend social media UI clone using reusable components and dynamic state handling.`
 
-**Tech:** `Vite,TypeSript,React.js,TailwindCSS`
+***Tech:*** `Vite,TypeSript,React.js,TailwindCSS`
 
 ---
 
@@ -118,24 +144,29 @@ Hello, I'm Sajin CL , a `MERN Stack Developer`. I enjoy building responsive, fun
 
 `A modern and responsive decoration service website showcasing event planning and decoration services, featuring service listings, image galleries, and contact options for client inquiries.`
 
-**Tech:** `Vite,React.js,TailwindCSS`
+***Tech:*** `Vite,React.js,TailwindCSS`
 
 <br>
+<!--projects sections ends here -->
 
+<!--profile views started here -->
 <p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=sajin-cl&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </p>
+<!--profile views ends here -->
 
 <div align="center">
   <br>
   <samp><i>"Focused on becoming a strong full-stack developer"</i></samp>
 </div>
 
+<!--github streak started here -->
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajin-cl&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=f0883e&currStreakLabel=58a6ff" alt="GitHub Streak" />
 </div>
+<!--github streak ends here -->
 <br>
 
 <h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
