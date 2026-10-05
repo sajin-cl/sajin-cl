@@ -26,8 +26,6 @@ Hi, I’m Sajin CL, a `MERN Stack Developer`. passionate about building responsi
 
 <!--skills sections started here -->
 
-## ⚔️ SKILLS
-
 <picture>
   <img alt="skills section" src="skills-board.svg" />
 </picture>
