@@ -2,18 +2,6 @@
   <img alt="sajin-cl's GitHub profile" src="dark_mode_scan_green.svg" />
 </picture>
 
-<div align="center">
-
-# SAJIN CL
-### <samp>MERN STACK DEVELOPER • FULL-STACK DEVELOPER • REACT DEVELOPER</samp>
-
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=22C55E&width=500&center=true&vCenter=true&lines=MERN+STACK+DEVELOPER;REACT+JS+DEVELOPER" />
-</p>
-
-</div>
 
 
 ## 🎭 USER_INFO
@@ -86,7 +74,8 @@ I SPECIALIZE IN THE FOLLOWING TECHNOLOGIES
 
 ---
 
-<!--projects sections started here -->
+<!--projects sections started here 
+
 <p align="center">
   <img 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=1&pause=1000&color=22C55E&center=true&vCenter=true&repeat=false&width=500&lines=%F0%9F%8C%90+FEATURED+PROJECTS+%F0%9F%8C%90"
