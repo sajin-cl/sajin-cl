@@ -89,7 +89,7 @@ I SPECIALIZE IN THE FOLLOWING TECHNOLOGIES
 <!--projects sections started here -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=1&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=false&width=500&lines=%F0%9F%8C%90+FEATURED+PROJECTS+%F0%9F%8C%90"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=1&pause=1000&color=22C55E&center=true&vCenter=true&repeat=false&width=500&lines=%F0%9F%8C%90+FEATURED+PROJECTS+%F0%9F%8C%90"
     alt="Featured Projects"
   />
 </p>
@@ -158,8 +158,9 @@ I SPECIALIZE IN THE FOLLOWING TECHNOLOGIES
 
 <!--github streak started here -->
 <div align="center">
+  
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajin-cl&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=f0883e&currStreakLabel=58a6ff" alt="GitHub Streak" />
-</div>
+
 <!--github streak ends here -->
 <br>
 
