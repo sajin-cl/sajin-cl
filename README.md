@@ -23,15 +23,18 @@ Hi, I’m Sajin CL, a `MERN Stack Developer`. passionate about building responsi
   <img src="https://img.shields.io/badge/REAL--WORLD%20PROJECTS-C0C0C0?style=flat-square&labelColor=808080" />
 </p>
 
-
+---
 <!--skills sections started here -->
 
+<!--
 <picture>
   <img alt="skills section" src="skills-board.svg" />
 </picture>
+-->
 
-<!--
-I SPECIALIZE IN THE FOLLOWING TECHNOLOGIES
+## 🛠️ I SPECIALIZE IN THE FOLLOWING TECHNOLOGIES
+
+<br>
 
 <div align="right">
 
@@ -65,7 +68,7 @@ I SPECIALIZE IN THE FOLLOWING TECHNOLOGIES
 ![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
---->
+
 
 <br>
 <!--skills sections ends here -->
