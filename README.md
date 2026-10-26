@@ -32,7 +32,7 @@ Hi, I’m Sajin CL, a `MERN Stack Developer`. passionate about building responsi
 </picture>
 -->
 
-## 👨‍💻  I SPECIALIZE IN THE FOLLOWING TECHNOLOGIES
+### 👨‍💻  I SPECIALIZE IN THE FOLLOWING TECHNOLOGIES
 
 <br>
 
@@ -160,28 +160,58 @@ Hi, I’m Sajin CL, a `MERN Stack Developer`. passionate about building responsi
   <img alt="Game Show" src="jet_game.svg" />
 </picture>
 
+
+---
+<!-- Gists starts here -->
+
+
+## 🧩 CODE SNIPPETS & EXPERIMENTS
+
+A collection of reusable components, creative animations, and code experiments.
+
+🔗 [Explore My Gists](https://gist.github.com/sajin-cl)
+
+<!-- Gists ends here -->
+
 ---
 
-<!-- Badges List -->
+
+
+<!-- Badges List starts here -->
 <div align="center">
-<a href="https://www.linkedin.com/in/sajincl/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:sajincl.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://sajincl-porfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-<a href="https://leetcode.com/sajincl/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-<a href="https://gitlab.com/sajin-cl"> <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" /> </a>
-<a href="https://www.instagram.com/sajin.cl/">
-  <img src="https://img.shields.io/badge/Instagram-@sajin.cl-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+  <a href="https://www.linkedin.com/in/sajincl/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <a href="mailto:sajincl.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+
+  <a href="https://sajincl-porfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+
+  <a href="https://leetcode.com/sajincl/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+
+  <a href="https://gitlab.com/sajin-cl">
+    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+  </a>
+
+  <a href="https://gist.github.com/sajin-cl">
+    <img src="https://img.shields.io/badge/Gists-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Gists" />
+  </a>
+
+  <a href="https://www.instagram.com/sajin.cl/">
+    <img src="https://img.shields.io/badge/Instagram-@sajin.cl-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </div>
+
+<!-- Badges List ends here -->
+
 <div align="center">
   <br>
   <samp><i>"Let's Connect"</i></samp>
 </div>
+
