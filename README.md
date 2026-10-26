@@ -32,7 +32,7 @@ Hi, I’m Sajin CL, a `MERN Stack Developer`. passionate about building responsi
 </picture>
 -->
 
-## 🛠️ I SPECIALIZE IN THE FOLLOWING TECHNOLOGIES
+## 👨‍💻  I SPECIALIZE IN THE FOLLOWING TECHNOLOGIES
 
 <br>
 
