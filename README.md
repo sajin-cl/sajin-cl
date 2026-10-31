@@ -87,9 +87,19 @@ Hi, I’m Sajin CL, a `MERN Stack Developer`. passionate about building responsi
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+
+<h5>
+  <font color="#22C55E">sajin.cl@dev:~$</font>
+  <font color="#FFFFFF">ls skills/operating-systems 💻</font>
+</h5>
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=microsoftwindows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
 </div>
 
-<br>
+
 <!-- Skills section ends here -->
 
 
