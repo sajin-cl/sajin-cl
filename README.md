@@ -102,66 +102,8 @@ Hi, I’m Sajin CL, a `MERN Stack Developer`. passionate about building responsi
 
 <!-- Skills section ends here -->
 
-
 ---
 
-<!--projects sections started here 
-
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=1&pause=1000&color=22C55E&center=true&vCenter=true&repeat=false&width=500&lines=%F0%9F%8C%90+FEATURED+PROJECTS+%F0%9F%8C%90"
-    alt="Featured Projects"
-  />
-</p>
-
-⭐ PORTFOLIO WEBSITE :
-
-`Personal developer portfolio built using modern frontend tooling and responsive UI.`
- 
-***Tech:*** `React.js, Vite, TailwindCSS`
-
----
-
-⭐ HONEY ECOMMERCE WEBSITE :
-
-`Premium honey e-commerce platform with secure payment integration, product catalog management, and responsive user experience.`
-
-***Tech:*** `Next.js, MongoDB Atlas,Cloudinary, TailwindCSS`
-
----
-
-⭐ MULTI VENDOR GROCERY ECOMMERCE :
-
-`Multi‑vendor grocery platform with authentication, email OTP verification and vendor management.`
-
-***Tech:*** `CSS, Bootstrap, Node.js, Express.js, MongoDB, Mongoose ODM, JWT Authentication`
-
----
-
-⭐ ECOMMERCE ADMIN & USER PANEL :
- 
-`Server‑rendered ecommerce system with role separation and session authentication.`
-
-***Tech:*** `CSS, Bootstrap, Node.js, Express.js, Handlebars.js, Session Authentication`
-
----
-
-⭐ INSTAGRAM CLONE :
-
-`Frontend social media UI clone using reusable components and dynamic state handling.`
-
-***Tech:*** `Vite,TypeSript,React.js,TailwindCSS`
-
----
-
-⭐ AK DECORATION SERVICE :
-
-`A modern and responsive decoration service website showcasing event planning and decoration services, featuring service listings, image galleries, and contact options for client inquiries.`
-
-***Tech:*** `Vite,React.js,TailwindCSS`
-
-<br>
-<!--projects sections ends here -->
 
 <!--profile views started here -->
 <p align="center">
@@ -191,6 +133,19 @@ Hi, I’m Sajin CL, a `MERN Stack Developer`. passionate about building responsi
 </picture>
 
 
+<p align="center">
+  <a href="https://www.cherryshoney.com/">Cherrys-Honey-Ecommerce ↗</a>
+  &nbsp; · &nbsp;
+  <a href="https://ak-decoration.vercel.app/">Ak-Decoration ↗</a>
+  &nbsp; · &nbsp;
+  <a href="https://power-house-ecommerce.vercel.app/">Multi-vendor-Ecommerce ↗</a>
+   &nbsp; · &nbsp;
+   <a href="https://social-media-clone-with-vite-react.vercel.app/">insta-clone ↗</a>
+     &nbsp; · &nbsp;
+   <a href="https://sanjeev-kumar-portfolio.vercel.app/">client-portfolio ↗</a>
+</p>
+
+
 ---
 <!-- Gists starts here -->
 
@@ -199,7 +154,7 @@ Hi, I’m Sajin CL, a `MERN Stack Developer`. passionate about building responsi
 
 A collection of reusable components, creative animations, and code experiments.
 
-🔗 [Explore My Gists](https://gist.github.com/sajin-cl)
+🔗 [explore-my-gists↗](https://gist.github.com/sajin-cl)
 
 <!-- Gists ends here -->
 
